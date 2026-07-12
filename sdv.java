@@ -4,5 +4,6 @@ public class sdv {
         int tc=10;
         System.out.println(tc);
         tc--;
+        System.out.println(tc);
     }
 }
