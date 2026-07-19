@@ -3,6 +3,8 @@ public class sdv {
         System.out.println("Webhook");
         int tc=10;
         System.out.println(tc);
-        
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
     }
 }
