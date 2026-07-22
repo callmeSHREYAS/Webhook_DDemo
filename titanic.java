@@ -3,5 +3,6 @@ public class titanic {
         int n=10;
         System.out.println(10);
         System.out.println(-1);
+        System.out.println(11);
     }
 }
